@@ -10,7 +10,7 @@ I’m a passionate Data Scientist and Machine Learning Developer with hands-on e
 
 ## Skills & Technologies
 - **Languages & Libraries:** Python (Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow), R  
-- **Databases & Querying:** SQL Server, MySQL, PostgreSQL  
+- **Databases & Querying:** SQL Server, MySQL, PostgreSQL, SparkSQL, PySpark
 - **BI & Visualization:** Power BI, Tableau, Looker, Excel (Pivot Tables, VBA, Macros), Google Sheets  
 - **Cloud & DevOps:** AWS (SageMaker, Lambda, Bedrock, Rekognition, Transcribe, S3, Redshift, Athena), Docker  
 - **Machine Learning & AI:** Supervised & unsupervised learning, Generative AI, LLM prompt engineering, XGBoost, Random Forest  
