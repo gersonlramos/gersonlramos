@@ -1,13 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/gersonlramos/gersonlramos/blob/main/banner.png" alt="Banner" width="100%"/>
-</p>
-
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://github.com/gersonlramos/gersonlramos/blob/main/profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius:50%;"/>
-</p>
-
 <h1 align="center">Hi there 👋, I’m Gerson Ramos</h1>
 <p align="center"><strong>Data Scientist | ML & AI Developer | Data Analyst | BI Specialist | AWS Certified</strong></p>
 
