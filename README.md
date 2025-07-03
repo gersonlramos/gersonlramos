@@ -46,8 +46,7 @@ I’m a passionate Data Scientist and Machine Learning Developer with hands-on e
 ## Visuals & Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gersonlramos&show_icons=true&theme=radical" alt="Gerson's GitHub Stats"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gersonlramos&theme=radical" alt="Gerson's GitHub Stats"/> 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gersonlramos&theme=onedark" alt="Profile Trophies"/>
