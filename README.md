@@ -79,7 +79,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Developer** with hand
         </div>
       </td>
       <td width="50%">
-        <h3 align="center"><a href="https://github.com/gersonlramos/SQL_PySpark_Translator" style="text-decoration: none; color: inherit;">⚡ SQL to PySpark Translator</a></h3>
+        <h3 align="center"><a href="https://github.com/gersonlramos/sql-to-pyspark-translator" style="text-decoration: none; color: inherit;">⚡ SQL to PySpark Translator</a></h3>
         <div align="center">
           <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
           <img src="https://img.shields.io/badge/SQL_Parser-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -90,12 +90,12 @@ I'm a passionate **Data Scientist** and **Machine Learning Developer** with hand
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">📊 Real-Time Sales Dashboard</h3>
+        <h3 align="center"><a href="https://github.com/gersonlramos/Sales_Real_Time" style="text-decoration: none; color: inherit;">📊 Real-Time Sales Dashboard</a></h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
           <br><br>
-          <p>Designed and deployed interactive dashboards for sales monitoring, KPI tracking, and executive reporting with real-time data updates.</p>
+          <p><strong>Interactive BI Solution</strong> • Built comprehensive real-time sales monitoring system with automated PostgreSQL data simulation, multi-dimensional analysis, and dynamic Power BI dashboards for KPI tracking and executive reporting.</p>
         </div>
       </td>
       <td width="50%">
