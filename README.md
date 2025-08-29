@@ -79,7 +79,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Developer** with hand
         </div>
       </td>
       <td width="50%">
-        <h3 align="center"><a href="https://github.com/gersonlramos/sql-to-pyspark-translator" style="text-decoration: none; color: inherit;">⚡ SQL to PySpark Translator</a></h3>
+        <h3 align="center"><a href="https://github.com/gersonlramos/SQL_PySpark_Translator" style="text-decoration: none; color: inherit;">⚡ SQL to PySpark Translator</a></h3>
         <div align="center">
           <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
           <img src="https://img.shields.io/badge/SQL_Parser-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
