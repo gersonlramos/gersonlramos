@@ -70,21 +70,21 @@ I'm a passionate **Data Scientist** and **Machine Learning Developer** with hand
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🏨 Hotel Pricing Prediction</h3>
+        <h3 align="center"><a href="https://github.com/gersonlramos/redshift-dbt" style="text-decoration: none; color: inherit;">🏗️ DBT + AWS Redshift Pipeline</a></h3>
         <div align="center">  
-          <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
-          <img src="https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+          <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white"/>
           <br><br>
-          <p><strong>87% Accuracy</strong> • Built an XGBoost model in AWS SageMaker to forecast optimal room rates, helping hotels maximize revenue through dynamic pricing strategies.</p>
+          <p><strong>Complete Data Pipeline</strong> • Built scalable ELT pipeline using DBT and Redshift, transforming Northwind transactional data into analytical models with temporal partitions and business intelligence optimization.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">⚽ Sports Outcome Predictor</h3>
+        <h3 align="center"><a href="https://github.com/gersonlramos/sql-to-pyspark-translator" style="text-decoration: none; color: inherit;">⚡ SQL to PySpark Translator</a></h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQL_Parser-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
           <br><br>
-          <p><strong>87% Accuracy</strong> • Developed a Random Forest classifier to predict match results, incorporating team statistics, player performance, and historical data.</p>
+          <p><strong>Complete Translation Solution</strong> • Automated SQL query translation to executable PySpark code with robust alias resolution, supporting complex JOINs, CASE WHEN, and aggregations.</p>
         </div>
       </td>
     </tr>
@@ -110,7 +110,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Developer** with hand
     </tr>
   </table>
 </div>
-
 ---
 
 ## 📊 GitHub Analytics
