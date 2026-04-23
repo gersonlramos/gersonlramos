@@ -114,18 +114,22 @@ I'm a passionate **Data Scientist** and **Machine Learning Developer** with hand
 
 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gersonlramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonlramos&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  <a href="https://github.com/gersonlramos/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gersonlramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=1800&border_radius=10"/>
+  </a>
+  <a href="https://github.com/gersonlramos/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonlramos&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&border_radius=10&card_width=320"/>
+  </a>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gersonlramos&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=gersonlramos&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gersonlramos&theme=tokyonight&row=1&column=7&no-frame=false&no-bg=false" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gersonlramos&theme=tokyonight&row=1&column=7&no-frame=false&no-bg=false&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gersonlramos&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gersonlramos&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&radius=16" alt="Contribution Graph"/>
 </div>
 
 ---
