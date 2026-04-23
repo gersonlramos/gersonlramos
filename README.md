@@ -112,25 +112,20 @@ I'm a passionate **Data Scientist** and **Machine Learning Developer** with hand
 </div>
 ---
 
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gersonlramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonlramos&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gersonlramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonlramos&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gersonlramos&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=gersonlramos&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gersonlramos&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gersonlramos&theme=tokyonight&row=1&column=7&no-frame=false&no-bg=false" alt="GitHub Trophies"/>
 </div>
-
-### 📈 Contribution Graph
-
+📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gersonlramos&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gersonlramos&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 </div>
 
 ---
