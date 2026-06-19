@@ -71,40 +71,60 @@ I'm a **Data Engineer**, **Data Scientist** and **Machine Learning Developer** w
     <tr>
       <td width="50%">
         <h3 align="center"><a href="https://github.com/gersonlramos/redshift-dbt" style="text-decoration: none; color: inherit;">🏗️ DBT + AWS Redshift Pipeline</a></h3>
-        <div align="center">  
+        <div align="center">
           <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
           <img src="https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white"/>
           <br><br>
-          <p><strong>Complete Data Pipeline</strong> • Built scalable ELT pipeline using DBT and Redshift, transforming Northwind transactional data into analytical models with temporal partitions and business intelligence optimization.</p>
+          <p><strong>Core Data Engineering</strong> • Scalable ELT pipeline using DBT and Redshift, transforming Northwind transactional data into analytical models with temporal partitions and business intelligence optimization.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center"><a href="https://github.com/gersonlramos/sql-to-pyspark-translator" style="text-decoration: none; color: inherit;">⚡ SQL to PySpark Translator</a></h3>
+        <h3 align="center"><a href="https://github.com/gersonlramos/SQL_PySpark_Translator" style="text-decoration: none; color: inherit;">⚡ SQL to PySpark Translator</a></h3>
         <div align="center">
           <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SQL_Parser-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
           <br><br>
-          <p><strong>Complete Translation Solution</strong> • Automated SQL query translation to executable PySpark code with robust alias resolution, supporting complex JOINs, CASE WHEN, and aggregations.</p>
+          <p><strong>Data Engineering Tool</strong> • Automated SQL query translation to executable PySpark code with robust alias resolution, supporting complex JOINs, CASE WHEN, and aggregations.</p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center"><a href="https://github.com/gersonlramos/Sales_Real_Time" style="text-decoration: none; color: inherit;">📊 Real-Time Sales Dashboard</a></h3>
+        <h3 align="center"><a href="https://github.com/gersonlramos/Machine_Learning" style="text-decoration: none; color: inherit;">🤖 Machine Learning Projects</a></h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
           <br><br>
-          <p><strong>Interactive BI Solution</strong> • Built comprehensive real-time sales monitoring system with automated PostgreSQL data simulation, multi-dimensional analysis, and dynamic Power BI dashboards for KPI tracking and executive reporting.</p>
+          <p><strong>ML Development</strong> • Collection of machine learning models and experiments covering supervised/unsupervised learning, feature engineering, and model evaluation aligned with real-world data science use cases.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🤖 Generative AI & RAG Systems</h3>
+        <h3 align="center"><a href="https://github.com/gersonlramos/bolao_copa_2026" style="text-decoration: none; color: inherit;">⚽ Bolão Copa 2026</a></h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
           <br><br>
-          <p>Created, evaluated, and fine-tuned prompts for retrieval-augmented generation systems and LLM integrations for enterprise applications.</p>
+          <p><strong>Full Android App</strong> • Complete native Android application for World Cup 2026 predictions — showcasing end-to-end mobile development, real-time data, and user experience design.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/gersonlramos/Postgres-Clean-Process-SuperStore" style="text-decoration: none; color: inherit;">🛒 PostgreSQL SuperStore Pipeline</a></h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+          <br><br>
+          <p><strong>Analytical Foundation</strong> • End-to-end data cleaning and processing pipeline for the SuperStore dataset using PostgreSQL — covering data quality, transformation, and analytical query optimization.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/gersonlramos/nba-api-interface" style="text-decoration: none; color: inherit;">🏀 NBA API Interface</a></h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/REST_API-00D9FF?style=for-the-badge&logo=fastapi&logoColor=white"/>
+          <br><br>
+          <p><strong>Modern JS Interface</strong> • Interactive front-end interface consuming NBA stats API — showcasing versatility with modern JavaScript, REST API integration, and dynamic data visualization.</p>
         </div>
       </td>
     </tr>
