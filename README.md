@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** and **Machine Learning Developer** with hands-on experience building scalable AI solutions, predictive models, and interactive dashboards. I thrive at the intersection of data analytics and business strategy, leveraging **SQL**, **Python**, and **cloud technologies** (AWS SageMaker, Lambda, Bedrock) to drive data-driven decision-making.
+I'm a **Data Engineer**, **Data Scientist** and **Machine Learning Developer** with hands-on experience building scalable AI solutions, predictive models, and interactive dashboards. I thrive at the intersection of data analytics and business strategy, leveraging **SQL**, **Python**, and **cloud technologies** (AWS SageMaker, Lambda, Bedrock) to drive data-driven decision-making.
 
 🎯 **Currently seeking:** Machine Learning Developer, Data Scientist, or Data Analyst roles where I can make a significant impact using cutting-edge data science techniques.
 
