@@ -20,6 +20,21 @@ I work on large-scale pipeline migrations and lakehouse architectures on AWS: Sn
 
 ## Featured projects
 
+### [Store Sales — Time Series Forecasting](https://github.com/gersonlramos/Store-Sales---Time-Series-Forecasting)
+`LightGBM` `Python` `Time Series` `Kaggle`
+
+Forecasting 16 days of daily unit sales across 1,782 store × product-family series
+(Corporación Favorita, Kaggle). Global LightGBM models scoring **RMSLE 0.38469** on a
+held-out fortnight — 26% better than the strongest naive baseline — blending a direct
+per-horizon forecaster with a recursive one, selected because their residuals decorrelate
+(0.917) below seed-to-seed noise.
+
+The point of the repository is the measurement record, not the score: every change tested,
+every reversion, and two cases where a confidently reported effect turned out to be an
+artefact once confounders were held fixed. Includes a naive control submitted for
+calibration, a full changelog, and a feature dictionary documenting the legality of all 60
+model inputs.
+
 ### [redshift-dbt](https://github.com/gersonlramos/redshift-dbt)
 `dbt` `AWS Redshift` `SQL`
 
