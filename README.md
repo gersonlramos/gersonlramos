@@ -35,6 +35,19 @@ artefact once confounders were held fixed. Includes a naive control submitted fo
 calibration, a full changelog, and a feature dictionary documenting the legality of all 60
 model inputs.
 
+### [finance-notes-rag](https://github.com/gersonlramos/finance-notes-rag)
+`RAG` `LlamaIndex` `BM25` `Ollama` `Python`
+
+Fully local RAG pipeline (zero cloud cost) answering natural-language questions over
+Flamengo's audited financial statements, 2022–2026 — OCR, embeddings, vector store and
+LLM all running on a CPU-only laptop. 82% retrieval hit@k, 0.75 MRR, and 100% correct
+abstention on unanswerable questions.
+
+Every architecture choice was decided by measurement against a 20-question evaluation
+set, including the ones that lost: table linearization cost 30 points and was reverted,
+and lexical BM25 beat hybrid search by 24 points because the small multilingual embedder
+is too coarse for accounting terminology.
+
 ### [redshift-dbt](https://github.com/gersonlramos/redshift-dbt)
 `dbt` `AWS Redshift` `SQL`
 
